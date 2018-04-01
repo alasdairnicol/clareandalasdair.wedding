@@ -2,3 +2,6 @@ baseURL = "https://www.clareandalasdair.wedding"
 languageCode = "en-gb"
 title = "Clare and Alasdair's Wedding"
 theme = "ananke"
+
+[params]
+  featured_image = "/images/background.jpg"
