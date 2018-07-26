@@ -9,6 +9,7 @@ draft: False
 Thank you everyone for your kind wishes, gifts, and most of all for
 celebrating with us. We had a wonderful day.
 
-Please could you share any photos from the day, using [this Dropbox link][1].
+We'd love it if you could share your photos from the big day.  
+Please use [this Dropbox link][1].
 
 [1]: https://www.dropbox.com/request/kpWxfn2U3ei5BDAm6gpY
